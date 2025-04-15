@@ -92,6 +92,3 @@ In the PSK (Phase Shift Keying) experiment, the modulated signal was produced us
 
 
 
-
-## RESULT 
-
